@@ -91,6 +91,7 @@ while True:
 
 1.) Pertama kita membuat sebuah dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan.
 python
+
 ![Gambar 1](screenshot/1.png)
 
 
@@ -130,6 +131,7 @@ Apabila kita menginput 'l' maka sistem akan menampilkan data - data yang sudah k
 
 8.) Membuat syntax untuk menghentikan perulangan.
 python
+
 ![Gambar 8](screenshot/8.png)
 
 Apabila kita menginput 'k' maka program akan langsung berhenti.
